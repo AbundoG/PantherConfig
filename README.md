@@ -1,0 +1,2 @@
+# PantherConfig
+prototype robot
